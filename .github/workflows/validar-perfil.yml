@@ -28,6 +28,10 @@ jobs:
     
     steps:
     
+      - name: Baixar o conteúdo do repositório
+      
+        uses: actions/checkout@v4
+        
       - name: Verificar arquivos públicos essenciais
       
         shell: bash
@@ -41,7 +45,6 @@ jobs:
           test -f OPERACAO.md
           
           echo "Arquivos públicos essenciais encontrados."
-          
 
 
 
