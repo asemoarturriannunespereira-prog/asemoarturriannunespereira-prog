@@ -10,6 +10,18 @@
 
 ![Bot construído com apoio de inteligência artificial](./botchatbotia-ai-banner.svg)
 
+<div align="center">
+
+<a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="180" alt="Mona, mascote do GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q"><img src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="180" alt="Mascote do GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://giphy.com/stickers/GitHub-duck-mascots-githubuniverse2024-ou60s0z0v7JzSWGn8C"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="180" alt="Pato do GitHub" /></a>
+
+**GIFs oficiais do canal GitHub no GIPHY** · [ver a coleção completa](https://giphy.com/GitHub)
+
+</div>
+
 ## O que existe neste perfil
 
 Este perfil é um espaço público para aprender a criar bots que recebem mensagens, executam tarefas, conectam APIs e devolvem respostas úteis. A proposta é mostrar o processo de forma visual: da ideia ao fluxo, do fluxo à arquitetura, da arquitetura aos testes e da automação à responsabilidade.
