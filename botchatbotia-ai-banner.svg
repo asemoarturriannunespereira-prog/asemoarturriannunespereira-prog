@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Bot construído com apoio de inteligência artificial</title>
+  <desc id="desc">Banner animado para o perfil BotChatBotia Design.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1024"/>
+      <stop offset="1" stop-color="#24104a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#fb3150"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" rx="28" fill="url(#bg)"/>
+  <circle cx="1060" cy="70" r="150" fill="#7c3aed" opacity=".10">
+    <animate attributeName="r" values="140;168;140" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".08;.20;.08" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(96 62)" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <rect x="0" y="22" width="118" height="92" rx="26"/>
+    <path d="M59 22V0M42 0h34"/>
+    <circle cx="38" cy="65" r="7" fill="#fb3150"/>
+    <circle cx="80" cy="65" r="7" fill="#7c3aed"/>
+    <path d="M31 91c17 13 39 13 56 0"/>
+    <path d="M-22 66h22M118 66h22"/>
+    <circle cx="-30" cy="66" r="6" fill="#fb3150">
+      <animate attributeName="cx" values="-30; -8; -30" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="148" cy="66" r="6" fill="#7c3aed">
+      <animate attributeName="cx" values="148;126;148" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="285" y="104" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Este bot também foi</text>
+  <text x="285" y="158" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800">construído com apoio de IA</text>
+  <text x="285" y="204" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">BotChatBotia Design · ideia, código, testes e responsabilidade humana</text>
+  <path d="M285 228H1060" stroke="#ffffff" stroke-opacity=".16"/>
+  <circle cx="285" cy="228" r="5" fill="#fb3150"><animate attributeName="cx" values="285;1060;285" dur="6s" repeatCount="indefinite"/></circle>
+</svg>

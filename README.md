@@ -1,55 +1,97 @@
+<div align="center">
+
 # BotChatBotia Design
 
-## Bots úteis, claros e responsáveis.
+### Bots, automação e inteligência artificial com direção humana.
 
-Este perfil reúne guias visuais e projetos para quem quer aprender a criar bots que automatizam tarefas, respondem mensagens e conectam serviços sem transformar a tecnologia em uma caixa-preta.
+<a href="https://botchatfolio-qxs7htn9.manus.space">Portfólio</a> · <a href="#como-criar-um-bot">Como criar um bot</a> · <a href="#ia-no-processo">IA no processo</a> · <a href="#princípios">Princípios</a>
 
-## Como um bot funciona
+</div>
 
-Um bot transforma uma entrada em uma resposta por meio de uma sequência simples: definir o objetivo, receber uma mensagem ou evento, aplicar uma lógica, conectar serviços quando necessário e devolver um resultado compreensível.
+![Bot construído com apoio de inteligência artificial](./botchatbotia-ai-banner.svg)
+
+## O que existe neste perfil
+
+Este perfil é um espaço público para aprender a criar bots que recebem mensagens, executam tarefas, conectam APIs e devolvem respostas úteis. A proposta é mostrar o processo de forma visual: da ideia ao fluxo, do fluxo à arquitetura, da arquitetura aos testes e da automação à responsabilidade.
+
+![Bot Yorkage — identidade visual do projeto](./yorkage-bot.webp)
+
+> **Este bot também foi construído com apoio de inteligência artificial.** A IA ajuda a explorar ideias, escrever e revisar partes do código, organizar documentação e acelerar protótipos. As decisões, os testes, a validação e a responsabilidade pelo resultado continuam sendo humanas.
+
+## Como criar um bot
+
+### 1. Comece pelo trabalho, não pela ferramenta
+
+Defina uma tarefa específica: responder uma pergunta frequente, encaminhar uma solicitação, consultar uma API, organizar uma informação ou automatizar uma sequência repetitiva. Um bom primeiro bot é pequeno o suficiente para ser testado e útil o suficiente para ensinar alguma coisa.
+
+### 2. Escolha o canal e a entrada
+
+O bot pode funcionar em um site, Discord, Telegram, WhatsApp, Slack ou em uma interface própria. A entrada pode ser uma mensagem, um comando, um webhook ou um evento agendado. O canal define como o usuário conversa com o bot; a lógica define o que ele faz.
+
+### 3. Separe as partes do sistema
+
+Organize configuração, comandos, validação, serviços externos, tratamento de erros e logs em partes compreensíveis. Nunca coloque tokens no código público. Use variáveis de ambiente e permissões mínimas.
 
 ![Fluxo visual de criação de um bot](./01-fluxo-bot.png)
 
-## Arquitetura básica
+## Arquitetura visual
 
-Na prática, o usuário conversa com um canal; o canal encaminha a entrada ao servidor do bot; o servidor valida os dados, executa a lógica e conversa com APIs ou bancos de dados. Logs e segredos devem ser tratados como partes essenciais do projeto, não como detalhes posteriores.
+Um bot normalmente conecta uma pessoa, um canal, um servidor e serviços externos. A arquitetura não precisa começar grande: ela precisa ser clara. Primeiro faça o caminho funcionar; depois adicione persistência, filas, observabilidade e inteligência quando houver uma razão concreta.
 
 ![Arquitetura visual de um bot](./02-arquitetura-bot.png)
 
-## Como começar a criar um bot
+## O papel da inteligência artificial
 
-| Etapa | Pergunta principal |
+A inteligência artificial pode participar de diferentes momentos do desenvolvimento, sem substituir a compreensão do sistema. Ela pode ajudar a gerar alternativas de arquitetura, explicar erros, rascunhar funções, transformar requisitos em checklists, revisar documentação e sugerir testes. O código final deve ser executado, revisado e entendido antes de ser usado.
+
+| Momento | Uso responsável da IA |
 | --- | --- |
-| Objetivo | Qual tarefa o bot deve executar? |
-| Canal | Onde ele vai funcionar: web, Discord, Telegram, WhatsApp ou outro serviço? |
-| Entrada | Que mensagem, evento ou comando inicia a ação? |
-| Lógica | Como o bot interpreta a entrada e decide o que fazer? |
-| Resposta | Qual resultado ele devolve e como trata erros? |
+| Ideia | Explorar possibilidades e delimitar o primeiro experimento. |
+| Planejamento | Transformar objetivo em etapas, entradas, saídas e riscos. |
+| Implementação | Rascunhar código, explicar APIs e sugerir estruturas. |
+| Testes | Propor casos de erro, entradas inesperadas e cenários de limite. |
+| Documentação | Organizar instalação, configuração, uso e limitações. |
+| Revisão | Encontrar inconsistências, riscos e pontos que precisam de validação humana. |
+
+## Ferramentas e serviços
+
+As ferramentas abaixo representam categorias usadas para construir e documentar este tipo de projeto. Marcas e serviços devem ser citados como tecnologias utilizadas, nunca como patrocínio ou parceria sem autorização formal.
+
+`Python` · `Node.js` · `TypeScript` · `React` · `APIs` · `Webhooks` · `GitHub` · `Automação` · `Modelos de IA`
+
+As integrações de e-mail, calendário, mensagens e automação devem ser conectadas apenas com autorização da pessoa responsável pela conta. O bot não deve acessar dados privados por padrão, nem agir fora das permissões concedidas.
 
 ## Trilha de aprendizado
 
-Comece com um comando simples e uma resposta determinística. Depois, organize o código, conecte uma API, aprenda a receber webhooks e só então avance para automações maiores.
-
 ![Trilha visual para aprender a criar bots](./03-trilha-bot.png)
 
-## Boas práticas essenciais
+| Fase | Resultado esperado |
+| --- | --- |
+| Bot mínimo | Um comando recebe uma entrada e devolve uma resposta previsível. |
+| Código organizado | Configuração, lógica e integrações ficam separadas. |
+| API externa | O bot consulta ou envia dados com tratamento de erros. |
+| Webhook | Eventos externos iniciam ações de forma segura. |
+| Testes | Casos normais, falhas e limites são verificados. |
+| Projeto público | README, licença, variáveis de ambiente e instruções ficam claros. |
 
-**Proteja as credenciais.** Tokens e chaves devem ficar em variáveis de ambiente, nunca em arquivos públicos. Use somente as permissões necessárias.
+## Princípios
 
-**Teste os casos difíceis.** Verifique entradas vazias, mensagens inesperadas, falhas de rede, limites de requisição e repetição de eventos.
+**Clareza antes de complexidade.** O bot deve explicar o que faz e o que não faz.
 
-**Documente o uso.** Explique como instalar, configurar, executar localmente e desligar o bot.
+**Privacidade por padrão.** Dados, tokens e permissões precisam ser tratados como partes do projeto.
 
-**Respeite as pessoas e as plataformas.** Um bom bot informa seus limites, evita spam, trata dados com cuidado e oferece uma forma clara de interromper a automação.
+**Automação com freio.** Ações sensíveis devem pedir confirmação, registrar o que aconteceu e permitir interrupção.
 
-> Um bom bot não tenta fazer tudo. Ele resolve uma tarefa específica, informa seus limites e falha de maneira compreensível.
+**IA com responsabilidade.** Sugestão gerada não é validação. Toda saída importante precisa de revisão, teste e contexto.
 
-## Tecnologias para explorar
+> Um bot bom não tenta fazer tudo. Ele resolve uma tarefa específica, informa seus limites e falha de maneira compreensível.
 
-`Python` · `Node.js` · `TypeScript` · `React` · `APIs` · `Webhooks` · `Automação` · `Docker`
+## Próximos projetos
 
-## Projetos em construção
+Este perfil pode crescer com exemplos de bots de atendimento, integrações com APIs, automações de tarefas, agentes para fluxos repetitivos e pequenos laboratórios de inteligência artificial. Cada projeto deve explicar o objetivo, a configuração, os limites e o que foi aprendido.
 
-Em breve, este perfil poderá reunir exemplos de bots de atendimento, automação de tarefas, integração com APIs e pequenos agentes para fluxos repetitivos — sempre com configuração explícita e documentação para estudo.
+<div align="center">
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-botchatfolio--qxs7htn9.manus.space-20201d?style=flat-square&labelColor=20201d)](https://botchatfolio-qxs7htn9.manus.space)
+
+</div>
