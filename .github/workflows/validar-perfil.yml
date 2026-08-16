@@ -1,0 +1,59 @@
+name: Validar perfil público
+
+
+
+on:
+
+  push:
+  
+    branches: ["main"]
+    
+  pull_request:
+  
+    branches: ["main"]
+    
+
+
+permissions:
+
+  contents: read
+  
+
+
+jobs:
+
+  validar-arquivos:
+  
+    runs-on: ubuntu-latest
+    
+    steps:
+    
+      - name: Verificar arquivos públicos essenciais
+      
+        shell: bash
+        
+        run: |
+        
+          test -f README.md
+          
+          test -f SECURITY.md
+          
+          test -f OPERACAO.md
+          
+          echo "Arquivos públicos essenciais encontrados."
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
