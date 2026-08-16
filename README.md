@@ -485,3 +485,29 @@ A inteligência artificial pode participar de diferentes momentos do desenvolvim
 Código público deve ser reproduzível, credenciais ficam fora do repositório, mensagens são enviadas somente com consentimento e toda automação precisa de limites, logs e uma forma clara de desligamento.
 
 <p align="center"><strong>⚡ Gisele Bote · Rock, bots e automação ⚡</strong></p>
+
+
+---
+
+## 🎸 ROCK VISUAL · O BOT TAMBÉM TEM PALCO
+
+<p align="center"><img src="/manus-storage/rock-bot-banner_8a8c0896.png" alt="Banner rock com bot e guitarra" width="100%" /></p>
+
+<p align="center"><strong>⚡ Código no amplificador · 🤖 Bot no palco · 🔥 Automação em alto volume ⚡</strong></p>
+
+### 🤖 Onde o bot entra em cena
+
+<p align="center"><img src="./yorkage-bot.webp" alt="Bot Yorkage" width="520" /></p>
+
+<p align="center"><img src="/manus-storage/rock-bot-stage_4ad5b509.png" alt="Bot em palco rock com fluxo de dados" width="720" /></p>
+
+### 🎛️ Painel rápido
+
+<p align="center">
+  <a href="./COMANDOS-WHATSAPP.md"><img src="https://img.shields.io/badge/🎛️_Comandos-BB1B1B?style=for-the-badge" alt="Comandos WhatsApp" /></a>
+  <a href="./COMANDOS-INTERATIVOS.mjs"><img src="https://img.shields.io/badge/🎤_Botões-6E40C9?style=for-the-badge" alt="Botões interativos" /></a>
+  <a href="./figurinhas/"><img src="https://img.shields.io/badge/🖼️_Figurinhas-F85149?style=for-the-badge" alt="Figurinhas" /></a>
+  <a href="./SECURITY.md"><img src="https://img.shields.io/badge/🛡️_Segurança-30363D?style=for-the-badge&logoColor=FFFFFF" alt="Segurança" /></a>
+</p>
+
+> **Direção artística:** as imagens e ícones reforçam a identidade rock, enquanto o código continua organizado, documentado e verificável.
