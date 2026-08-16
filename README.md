@@ -10,19 +10,9 @@
 
 ![Bot construído com apoio de inteligência artificial](./botchatbotia-ai-banner.svg)
 
-<div align="center">
+<p><a href="https://giphy.com/GitHub"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Figurinha animada do GitHub" /></a> <strong>GIFs oficiais do canal GitHub no GIPHY</strong> · <a href="https://giphy.com/GitHub">ver coleção</a></p>
 
-<a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="180" alt="Mona, mascote do GitHub" /></a>
-&nbsp;&nbsp;
-<a href="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q"><img src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="180" alt="Mascote do GitHub" /></a>
-&nbsp;&nbsp;
-<a href="https://giphy.com/stickers/GitHub-duck-mascots-githubuniverse2024-ou60s0z0v7JzSWGn8C"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="180" alt="Pato do GitHub" /></a>
-
-**GIFs oficiais do canal GitHub no GIPHY** · [ver a coleção completa](https://giphy.com/GitHub)
-
-</div>
-
-## O que existe neste perfil
+## O que existe neste perfil <a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Mona animada" /></a>
 
 Este perfil é um espaço público para aprender a criar bots que recebem mensagens, executam tarefas, conectam APIs e devolvem respostas úteis. A proposta é mostrar o processo de forma visual: da ideia ao fluxo, do fluxo à arquitetura, da arquitetura aos testes e da automação à responsabilidade.
 
@@ -30,7 +20,7 @@ Este perfil é um espaço público para aprender a criar bots que recebem mensag
 
 > **Este bot também foi construído com apoio de inteligência artificial.** A IA ajuda a explorar ideias, escrever e revisar partes do código, organizar documentação e acelerar protótipos. As decisões, os testes, a validação e a responsabilidade pelo resultado continuam sendo humanas.
 
-## Como criar um bot
+## Como criar um bot <a href="https://giphy.com/stickers/GitHub-duck-mascots-githubuniverse2024-ou60s0z0v7JzSWGn8C"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="32" height="32" alt="Pato animado" /></a>
 
 ### 1. Comece pelo trabalho, não pela ferramenta
 
@@ -46,13 +36,13 @@ Organize configuração, comandos, validação, serviços externos, tratamento d
 
 ![Fluxo visual de criação de um bot](./01-fluxo-bot.png)
 
-## Arquitetura visual
+## Arquitetura visual <a href="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q"><img src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="32" height="32" alt="Mascote animado" /></a>
 
 Um bot normalmente conecta uma pessoa, um canal, um servidor e serviços externos. A arquitetura não precisa começar grande: ela precisa ser clara. Primeiro faça o caminho funcionar; depois adicione persistência, filas, observabilidade e inteligência quando houver uma razão concreta.
 
 ![Arquitetura visual de um bot](./02-arquitetura-bot.png)
 
-## O papel da inteligência artificial
+## O papel da inteligência artificial <a href="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q"><img src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="32" height="32" alt="Mascote animado" /></a>
 
 A inteligência artificial pode participar de diferentes momentos do desenvolvimento, sem substituir a compreensão do sistema. Ela pode ajudar a gerar alternativas de arquitetura, explicar erros, rascunhar funções, transformar requisitos em checklists, revisar documentação e sugerir testes. O código final deve ser executado, revisado e entendido antes de ser usado.
 
@@ -65,7 +55,7 @@ A inteligência artificial pode participar de diferentes momentos do desenvolvim
 | Documentação | Organizar instalação, configuração, uso e limitações. |
 | Revisão | Encontrar inconsistências, riscos e pontos que precisam de validação humana. |
 
-## Ferramentas e serviços
+## Ferramentas e serviços <a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Mona animada" /></a>
 
 As ferramentas abaixo representam categorias usadas para construir e documentar este tipo de projeto. Marcas e serviços devem ser citados como tecnologias utilizadas, nunca como patrocínio ou parceria sem autorização formal.
 
@@ -73,7 +63,7 @@ As ferramentas abaixo representam categorias usadas para construir e documentar 
 
 As integrações de e-mail, calendário, mensagens e automação devem ser conectadas apenas com autorização da pessoa responsável pela conta. O bot não deve acessar dados privados por padrão, nem agir fora das permissões concedidas.
 
-## Trilha de aprendizado
+## Trilha de aprendizado <a href="https://giphy.com/stickers/GitHub-duck-mascots-githubuniverse2024-ou60s0z0v7JzSWGn8C"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="32" height="32" alt="Pato animado" /></a>
 
 ![Trilha visual para aprender a criar bots](./03-trilha-bot.png)
 
@@ -86,7 +76,7 @@ As integrações de e-mail, calendário, mensagens e automação devem ser conec
 | Testes | Casos normais, falhas e limites são verificados. |
 | Projeto público | README, licença, variáveis de ambiente e instruções ficam claros. |
 
-## Princípios
+## Princípios <a href="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q"><img src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="32" height="32" alt="Mascote animado" /></a>
 
 **Clareza antes de complexidade.** O bot deve explicar o que faz e o que não faz.
 
