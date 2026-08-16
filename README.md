@@ -7,7 +7,23 @@
 
 
 
+
+
+
+
+
+
+
+
 # BotChatBotia Design
+
+
+
+
+
+
+
+
 
 
 
@@ -25,6 +41,14 @@
 
 
 
+
+
+
+
+
+
+
+
 <a href="https://botchatfolio-qxs7htn9.manus.space">Portfólio</a> · <a href="#como-criar-um-bot">Como criar um bot</a> · <a href="OPERACAO.md">Operação</a> · <a href="SECURITY.md">Segurança</a> · <a href="#princípios">Princípios</a>
 
 
@@ -34,7 +58,23 @@
 
 
 
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
 
 
 
@@ -52,7 +92,23 @@
 
 
 
+
+
+
+
+
+
+
+
 <p><a href="https://giphy.com/GitHub"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Figurinha animada do GitHub" /></a> <strong>GIFs oficiais do canal GitHub no GIPHY</strong> · <a href="https://giphy.com/GitHub">ver coleção</a></p>
+
+
+
+
+
+
+
+
 
 
 
@@ -70,7 +126,23 @@
 
 
 
+
+
+
+
+
+
+
+
 Este perfil é um espaço público para aprender a criar bots que recebem mensagens, executam tarefas, conectam APIs e devolvem respostas úteis. A proposta é mostrar o processo de forma visual: da ideia ao fluxo, do fluxo à arquitetura, da arquitetura aos testes e da automação à responsabilidade.
+
+
+
+
+
+
+
+
 
 
 
@@ -88,7 +160,23 @@ Este perfil é um espaço público para aprender a criar bots que recebem mensag
 
 
 
+
+
+
+
+
+
+
+
 > **Este bot também foi construído com apoio de inteligência artificial.** A IA ajuda a explorar ideias, escrever e revisar partes do código, organizar documentação e acelerar protótipos. As decisões, os testes, a validação e a responsabilidade pelo resultado continuam sendo humanas.
+
+
+
+
+
+
+
+
 
 
 
@@ -106,7 +194,23 @@ Este perfil é um espaço público para aprender a criar bots que recebem mensag
 
 
 
+
+
+
+
+
+
+
+
 ### 1. Comece pelo trabalho, não pela ferramenta
+
+
+
+
+
+
+
+
 
 
 
@@ -124,7 +228,23 @@ Defina uma tarefa específica: responder uma pergunta frequente, encaminhar uma 
 
 
 
+
+
+
+
+
+
+
+
 ### 2. Escolha o canal e a entrada
+
+
+
+
+
+
+
+
 
 
 
@@ -142,7 +262,23 @@ O bot pode funcionar em um site, Discord, Telegram, WhatsApp, Slack ou em uma in
 
 
 
+
+
+
+
+
+
+
+
 ### 3. Separe as partes do sistema
+
+
+
+
+
+
+
+
 
 
 
@@ -160,7 +296,23 @@ Organize configuração, comandos, validação, serviços externos, tratamento d
 
 
 
+
+
+
+
+
+
+
+
 ![Fluxo visual de criação de um bot](./01-fluxo-bot.png)
+
+
+
+
+
+
+
+
 
 
 
@@ -178,7 +330,23 @@ Organize configuração, comandos, validação, serviços externos, tratamento d
 
 
 
+
+
+
+
+
+
+
+
 Um bot normalmente conecta uma pessoa, um canal, um servidor e serviços externos. A arquitetura não precisa começar grande: ela precisa ser clara. Primeiro faça o caminho funcionar; depois adicione persistência, filas, observabilidade e inteligência quando houver uma razão concreta.
+
+
+
+
+
+
+
+
 
 
 
@@ -196,7 +364,23 @@ Um bot normalmente conecta uma pessoa, um canal, um servidor e serviços externo
 
 
 
+
+
+
+
+
+
+
+
 ## O papel da inteligência artificial <a href="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q"><img src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="32" height="32" alt="Mascote animado" /></a>
+
+
+
+
+
+
+
+
 
 
 
@@ -207,104 +391,60 @@ Um bot normalmente conecta uma pessoa, um canal, um servidor e serviços externo
 
 A inteligência artificial pode participar de diferentes momentos do desenvolvimento, sem substituir a compreensão do sistema. Ela pode ajudar a gerar alternativas de arquitetura, explicar erros, rascunhar funções, transformar requisitos em checklists, revisar documentação e sugerir testes. O código final deve ser executado, revisado e entendido antes de ser usado.
 
+---
 
-
-
-
-
-
-
-| Momento | Uso responsável da IA |
-| --- | --- |
-| Ideia | Explorar possibilidades e delimitar o primeiro experimento. |
-| Planejamento | Transformar objetivo em etapas, entradas, saídas e riscos. |
-| Implementação | Rascunhar código, explicar APIs e sugerir estruturas. |
-| Testes | Propor casos de erro, entradas inesperadas e cenários de limite. |
-| Documentação | Organizar instalação, configuração, uso e limitações. |
-| Revisão | Encontrar inconsistências, riscos e pontos que precisam de validação humana. |
-
-
-
-
-
-
-
-
-## Ferramentas e serviços <a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Mona animada" /></a>
-
-
-
-
-
-
-
-
-As ferramentas abaixo representam categorias usadas para construir e documentar este tipo de projeto. Marcas e serviços devem ser citados como tecnologias utilizadas, nunca como patrocínio ou parceria sem autorização formal.
-
-
-
-
-
-
-
-
-`Python` · `Node.js` · `TypeScript` · `React` · `APIs` · `Webhooks` · `GitHub` · `Automação` · `Modelos de IA`
-
-
-
-
-
-
-
-
-As integrações de e-mail, calendário, mensagens e automação devem ser conectadas apenas com autorização da pessoa responsável pela conta. O bot não deve acessar dados privados por padrão, nem agir fora das permissões concedidas.
-
-
-
-
-
-
-
-
-## Trilha de aprendizado <a href="https://giphy.com/stickers/GitHub-duck-mascots-githubuniverse2024-ou60s0z0v7JzSWGn8C"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="32" height="32" alt="Pato animado" /></a>
-
-
-
-
-
-
-
-
-![Trilha visual para aprender a criar bots](./03-trilha-bot.png)
-
-
-
-
-
-
-
-
-| Fase | Resultado esperado |
-| --- | --- |
-| Bot mínimo | Um comando recebe uma entrada e devolve uma resposta previsível. |
-| Código organizado | Configuração, lógica e integrações ficam separadas. |
-| API externa | O bot consulta ou envia dados com tratamento de erros. |
-| Webhook | Eventos externos iniciam ações de forma segura. |
-| Testes | Casos normais, falhas e limites são verificados. |
-| Projeto público | README, licença, variáveis de ambiente e instruções ficam claros. |
-
-## Navegação visual do perfil <img src="https://cdn-icons-png.flaticon.com/128/4494/4494688.png" width="24" alt="Ícone do GitHub" />
+## Identidade visual BotChatBotia <img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="28" alt="GitHub animado" />
 
 <div align="center">
 
-<a href="https://botchatfolio-qxs7htn9.manus.space"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494688.png" width="24" alt="GitHub" /> <strong>Portfólio</strong></a> ·
-<a href="https://github.com/asemoarturriannunespereira-prog/asemoarturriannunespereira-prog/issues"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="24" alt="GitHub animado" /> <strong>Issues</strong></a> ·
-<a href="https://github.com/asemoarturriannunespereira-prog/asemoarturriannunespereira-prog/actions"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="24" alt="Pato animado" /> <strong>Actions</strong></a> ·
-<a href="https://github.com/users/asemoarturriannunespereira-prog/projects/1"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494756.png" width="24" alt="GitHub" /> <strong>Projects</strong></a> ·
-<a href="https://github.com/asemoarturriannunespereira-prog/asemoarturriannunespereira-prog/security/policy"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494749.png" width="24" alt="GitHub" /> <strong>Security</strong></a> ·
-<a href="OPERACAO.md"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="24" alt="Mona animada" /> <strong>Operação</strong></a> ·
-<a href="SECURITY.md"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494688.png" width="24" alt="GitHub" /> <strong>Segurança</strong></a>
+![Bots](https://img.shields.io/badge/BOTS-FF4D6D?style=for-the-badge&logo=probot&logoColor=white) ![Automação](https://img.shields.io/badge/AUTOMAÇÃO-7C3AED?style=for-the-badge&logo=github-actions&logoColor=white) ![IA](https://img.shields.io/badge/IA-06B6D4?style=for-the-badge&logo=openai&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-F97316?style=for-the-badge&logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
 
-<p align="center"><sub>Ícones GitHub: <a href="https://www.flaticon.com/br/icone-gratis/github_4494688">Flaticon</a> · GIFs: <a href="https://giphy.com/GitHub">GIPHY/GitHub</a></sub></p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Modo claro
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=asemoarturriannunespereira-prog&repo=baileys-recovered-fork&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=asemoarturriannunespereira-prog&repo=baileys-recovered-fork&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asemoarturriannunespereira-prog&repo=baileys-recovered-fork&theme=default&hide_border=true" alt="Repositório recuperado Bailey" />
+</picture>
+
+</td>
+<td align="center" width="50%">
+
+### Modo escuro
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asemoarturriannunespereira-prog&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=asemoarturriannunespereira-prog&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=asemoarturriannunespereira-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do perfil" />
+</picture>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Paleta e linguagem visual</strong></summary>
+
+| Elemento | Cor | Uso |
+|---|---|---|
+| Coral Bot | `#FF4D6D` | Bots, destaque e chamada visual |
+| Violeta Automação | `#7C3AED` | Workflows, Actions e processos |
+| Ciano IA | `#06B6D4` | Inteligência artificial e integrações |
+| Laranja Build | `#F97316` | Java, Maven, testes e entregas |
+| Grafite | `#0D1117` | Fundo, contraste e leitura no modo escuro |
+
+</details>
+
+> **Direção visual:** contraste alto, acentos coloridos e blocos compactos para comunicar criação de bots sem esconder o conteúdo técnico.
+
+<div align="center">
+
+[![Visite o portfólio](https://img.shields.io/badge/VISITE%20O%20PORTFÓLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://botchatfolio-qxs7htn9.manus.space) [![Perfil GitHub](https://img.shields.io/badge/PERFIL%20GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asemoarturriannunespereira-prog)
+
+</div>
