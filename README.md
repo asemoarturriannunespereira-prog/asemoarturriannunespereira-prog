@@ -3,7 +3,15 @@
 
 
 
+
+
+
+
 # BotChatBotia Design
+
+
+
+
 
 
 
@@ -13,7 +21,15 @@
 
 
 
+
+
+
+
 <a href="https://botchatfolio-qxs7htn9.manus.space">Portfólio</a> · <a href="#como-criar-um-bot">Como criar um bot</a> · <a href="OPERACAO.md">Operação</a> · <a href="SECURITY.md">Segurança</a> · <a href="#princípios">Princípios</a>
+
+
+
+
 
 
 
@@ -23,7 +39,15 @@
 
 
 
+
+
+
+
 ![Bot construído com apoio de inteligência artificial](./botchatbotia-ai-banner.svg)
+
+
+
+
 
 
 
@@ -33,7 +57,15 @@
 
 
 
+
+
+
+
 ## O que existe neste perfil <a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Mona animada" /></a>
+
+
+
+
 
 
 
@@ -43,7 +75,15 @@ Este perfil é um espaço público para aprender a criar bots que recebem mensag
 
 
 
+
+
+
+
 ![Bot Yorkage — identidade visual do projeto](./yorkage-bot.webp)
+
+
+
+
 
 
 
@@ -53,7 +93,15 @@ Este perfil é um espaço público para aprender a criar bots que recebem mensag
 
 
 
+
+
+
+
 ## Como criar um bot <a href="https://giphy.com/stickers/GitHub-duck-mascots-githubuniverse2024-ou60s0z0v7JzSWGn8C"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="32" height="32" alt="Pato animado" /></a>
+
+
+
+
 
 
 
@@ -63,7 +111,15 @@ Este perfil é um espaço público para aprender a criar bots que recebem mensag
 
 
 
+
+
+
+
 Defina uma tarefa específica: responder uma pergunta frequente, encaminhar uma solicitação, consultar uma API, organizar uma informação ou automatizar uma sequência repetitiva. Um bom primeiro bot é pequeno o suficiente para ser testado e útil o suficiente para ensinar alguma coisa.
+
+
+
+
 
 
 
@@ -73,7 +129,15 @@ Defina uma tarefa específica: responder uma pergunta frequente, encaminhar uma 
 
 
 
+
+
+
+
 O bot pode funcionar em um site, Discord, Telegram, WhatsApp, Slack ou em uma interface própria. A entrada pode ser uma mensagem, um comando, um webhook ou um evento agendado. O canal define como o usuário conversa com o bot; a lógica define o que ele faz.
+
+
+
+
 
 
 
@@ -83,7 +147,15 @@ O bot pode funcionar em um site, Discord, Telegram, WhatsApp, Slack ou em uma in
 
 
 
+
+
+
+
 Organize configuração, comandos, validação, serviços externos, tratamento de erros e logs em partes compreensíveis. Nunca coloque tokens no código público. Use variáveis de ambiente e permissões mínimas.
+
+
+
+
 
 
 
@@ -93,7 +165,15 @@ Organize configuração, comandos, validação, serviços externos, tratamento d
 
 
 
+
+
+
+
 ## Arquitetura visual <a href="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q"><img src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="32" height="32" alt="Mascote animado" /></a>
+
+
+
+
 
 
 
@@ -103,7 +183,15 @@ Um bot normalmente conecta uma pessoa, um canal, um servidor e serviços externo
 
 
 
+
+
+
+
 ![Arquitetura visual de um bot](./02-arquitetura-bot.png)
+
+
+
+
 
 
 
@@ -113,7 +201,15 @@ Um bot normalmente conecta uma pessoa, um canal, um servidor e serviços externo
 
 
 
+
+
+
+
 A inteligência artificial pode participar de diferentes momentos do desenvolvimento, sem substituir a compreensão do sistema. Ela pode ajudar a gerar alternativas de arquitetura, explicar erros, rascunhar funções, transformar requisitos em checklists, revisar documentação e sugerir testes. O código final deve ser executado, revisado e entendido antes de ser usado.
+
+
+
+
 
 
 
@@ -130,7 +226,15 @@ A inteligência artificial pode participar de diferentes momentos do desenvolvim
 
 
 
+
+
+
+
 ## Ferramentas e serviços <a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Mona animada" /></a>
+
+
+
+
 
 
 
@@ -140,7 +244,15 @@ As ferramentas abaixo representam categorias usadas para construir e documentar 
 
 
 
+
+
+
+
 `Python` · `Node.js` · `TypeScript` · `React` · `APIs` · `Webhooks` · `GitHub` · `Automação` · `Modelos de IA`
+
+
+
+
 
 
 
@@ -150,12 +262,24 @@ As integrações de e-mail, calendário, mensagens e automação devem ser conec
 
 
 
+
+
+
+
 ## Trilha de aprendizado <a href="https://giphy.com/stickers/GitHub-duck-mascots-githubuniverse2024-ou60s0z0v7JzSWGn8C"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="32" height="32" alt="Pato animado" /></a>
 
 
 
 
+
+
+
+
 ![Trilha visual para aprender a criar bots](./03-trilha-bot.png)
+
+
+
+
 
 
 
@@ -169,113 +293,18 @@ As integrações de e-mail, calendário, mensagens e automação devem ser conec
 | Testes | Casos normais, falhas e limites são verificados. |
 | Projeto público | README, licença, variáveis de ambiente e instruções ficam claros. |
 
-
-
-
-## Princípios <a href="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q"><img src="https://media4.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="32" height="32" alt="Mascote animado" /></a>
-
-
-
-
-**Clareza antes de complexidade.** O bot deve explicar o que faz e o que não faz.
-
-
-
-
-**Privacidade por padrão.** Dados, tokens e permissões precisam ser tratados como partes do projeto.
-
-
-
-
-**Automação com freio.** Ações sensíveis devem pedir confirmação, registrar o que aconteceu e permitir interrupção.
-
-
-
-
-**IA com responsabilidade.** Sugestão gerada não é validação. Toda saída importante precisa de revisão, teste e contexto.
-
-
-
-
-> Um bot bom não tenta fazer tudo. Ele resolve uma tarefa específica, informa seus limites e falha de maneira compreensível.
-
-
-
-
-## Operação pública <a href="OPERACAO.md"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Figurinha animada de verificação" /></a>
-
-
-
-
-A área de [Issues](../../issues) funciona como relatório de problemas e sugestões. Se aparecer “Nenhuma sessão corresponde aos seus filtros”, remova filtros como `is:issue state:open`, confira as issues fechadas ou abra um novo relato usando um dos templates. A área [Actions](../../actions) mostra as verificações automatizadas; [Projects](../../projects) organiza o trabalho; e [Security](../../security) reúne recomendações disponíveis para o repositório.
-
-
-
-
-Consulte o [guia de operação](OPERACAO.md) e a [política de segurança](SECURITY.md) antes de abrir uma tarefa ou conectar um bot a um serviço externo.
-
-
-
-
-## Próximos projetos <a href="../../projects"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="32" height="32" alt="Figurinha animada de projeto" /></a>
-
-
-
-
-Este perfil pode crescer com exemplos de bots de atendimento, integrações com APIs, automações de tarefas, agentes para fluxos repetitivos e pequenos laboratórios de inteligência artificial. Cada projeto deve explicar o objetivo, a configuração, os limites e o que foi aprendido. O quadro público pode acompanhar cada ideia desde **Ideias** até **Concluído**.
-
-
-
+## Navegação visual do perfil <img src="https://cdn-icons-png.flaticon.com/128/4494/4494688.png" width="24" alt="Ícone do GitHub" />
 
 <div align="center">
 
-
-
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-botchatfolio--qxs7htn9.manus.space-20201d?style=flat-square&labelColor=20201d)](https://botchatfolio-qxs7htn9.manus.space)
-
-
-
-
-</div>
-
-
-## Apache Maven <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="72" alt="Apache Maven" />
-
-
-O **Apache Maven** é uma ferramenta de automação e gerenciamento de projetos Java que ajuda a organizar dependências, compilar código, executar testes e criar builds reproduzíveis. Nesta coleção, ele aparece como uma referência de engenharia para estruturar bots e serviços com mais consistência — sem representar afiliação oficial ao projeto Apache Maven.
-
-
-- **Builds reproduzíveis:** comandos claros para compilar, testar e empacotar.
-- **Dependências organizadas:** configuração centralizada no `pom.xml`.
-- **Automação de qualidade:** testes e validações integrados ao fluxo de desenvolvimento.
-
-
-[Conheça o Apache Maven na documentação oficial](https://maven.apache.org/).
-
-## Estatísticas reais e nova fase <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="28" alt="Ícone de contribuição" />
-
-> **Nova fase em bots, automação e IA — construindo publicamente, um commit por vez.**
->
-> Os gráficos abaixo são gerados automaticamente a partir dos dados públicos deste perfil. Eles podem mudar conforme novas contribuições, repositórios e atividades forem publicados.
-
-<div align="center">
-
-<a href="https://github.com/asemoarturriannunespereira-prog">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asemoarturriannunespereira-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas públicas do GitHub" />
-</a>
-<a href="https://github.com/asemoarturriannunespereira-prog">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asemoarturriannunespereira-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas publicamente" />
-</a>
-
-<a href="https://github.com/asemoarturriannunespereira-prog">
-  <img src="https://streak-stats.demolab.com?user=asemoarturriannunespereira-prog&theme=tokyonight&hide_border=true" alt="Sequência pública de contribuições" />
-</a>
-
-<a href="https://github.com/asemoarturriannunespereira-prog">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asemoarturriannunespereira-prog&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico público de atividade no GitHub" />
-</a>
+<a href="https://botchatfolio-qxs7htn9.manus.space"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494688.png" width="24" alt="GitHub" /> <strong>Portfólio</strong></a> ·
+<a href="https://github.com/asemoarturriannunespereira-prog/asemoarturriannunespereira-prog/issues"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="24" alt="GitHub animado" /> <strong>Issues</strong></a> ·
+<a href="https://github.com/asemoarturriannunespereira-prog/asemoarturriannunespereira-prog/actions"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="24" alt="Pato animado" /> <strong>Actions</strong></a> ·
+<a href="https://github.com/users/asemoarturriannunespereira-prog/projects/1"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494756.png" width="24" alt="GitHub" /> <strong>Projects</strong></a> ·
+<a href="https://github.com/asemoarturriannunespereira-prog/asemoarturriannunespereira-prog/security/policy"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494749.png" width="24" alt="GitHub" /> <strong>Security</strong></a> ·
+<a href="OPERACAO.md"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="24" alt="Mona animada" /> <strong>Operação</strong></a> ·
+<a href="SECURITY.md"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494688.png" width="24" alt="GitHub" /> <strong>Segurança</strong></a>
 
 </div>
 
-*Fonte dos dados: atividade pública deste perfil no GitHub. Os cards são informativos e não representam números editados manualmente.*
+<p align="center"><sub>Ícones GitHub: <a href="https://www.flaticon.com/br/icone-gratis/github_4494688">Flaticon</a> · GIFs: <a href="https://giphy.com/GitHub">GIPHY/GitHub</a></sub></p>
