@@ -4,7 +4,7 @@
 
 ### Bots, automação e inteligência artificial com direção humana.
 
-<a href="https://botchatfolio-qxs7htn9.manus.space">Portfólio</a> · <a href="#como-criar-um-bot">Como criar um bot</a> · <a href="#ia-no-processo">IA no processo</a> · <a href="#princípios">Princípios</a>
+<a href="https://botchatfolio-qxs7htn9.manus.space">Portfólio</a> · <a href="#como-criar-um-bot">Como criar um bot</a> · <a href="OPERACAO.md">Operação</a> · <a href="SECURITY.md">Segurança</a> · <a href="#princípios">Princípios</a>
 
 </div>
 
@@ -88,9 +88,15 @@ As integrações de e-mail, calendário, mensagens e automação devem ser conec
 
 > Um bot bom não tenta fazer tudo. Ele resolve uma tarefa específica, informa seus limites e falha de maneira compreensível.
 
-## Próximos projetos
+## Operação pública <a href="OPERACAO.md"><img src="https://media1.giphy.com/media/OFEabGCcVqsckIGn8G/giphy.gif" width="32" height="32" alt="Figurinha animada de verificação" /></a>
 
-Este perfil pode crescer com exemplos de bots de atendimento, integrações com APIs, automações de tarefas, agentes para fluxos repetitivos e pequenos laboratórios de inteligência artificial. Cada projeto deve explicar o objetivo, a configuração, os limites e o que foi aprendido.
+A área de [Issues](../../issues) funciona como relatório de problemas e sugestões. Se aparecer “Nenhuma sessão corresponde aos seus filtros”, remova filtros como `is:issue state:open`, confira as issues fechadas ou abra um novo relato usando um dos templates. A área [Actions](../../actions) mostra as verificações automatizadas; [Projects](../../projects) organiza o trabalho; e [Security](../../security) reúne recomendações disponíveis para o repositório.
+
+Consulte o [guia de operação](OPERACAO.md) e a [política de segurança](SECURITY.md) antes de abrir uma tarefa ou conectar um bot a um serviço externo.
+
+## Próximos projetos <a href="../../projects"><img src="https://media1.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="32" height="32" alt="Figurinha animada de projeto" /></a>
+
+Este perfil pode crescer com exemplos de bots de atendimento, integrações com APIs, automações de tarefas, agentes para fluxos repetitivos e pequenos laboratórios de inteligência artificial. Cada projeto deve explicar o objetivo, a configuração, os limites e o que foi aprendido. O quadro público pode acompanhar cada ideia desde **Ideias** até **Concluído**.
 
 <div align="center">
 
