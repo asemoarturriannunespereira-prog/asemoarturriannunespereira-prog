@@ -448,3 +448,40 @@ A inteligência artificial pode participar de diferentes momentos do desenvolvim
 [![Visite o portfólio](https://img.shields.io/badge/VISITE%20O%20PORTFÓLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://botchatfolio-qxs7htn9.manus.space) [![Perfil GitHub](https://img.shields.io/badge/PERFIL%20GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asemoarturriannunespereira-prog)
 
 </div>
+
+
+---
+
+## 🎸 MODO ROCK · BOTS NO PALCO
+
+> **Riffs fortes. Código limpo. Bots que entram em cena.**
+>
+> Uma identidade visual rock para projetos de automação, WhatsApp e inteligência artificial — com responsabilidade, testes e documentação.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROCK_MODE-0D1117?style=for-the-badge&logo=github&logoColor=F85149" alt="Rock mode" />
+  <img src="https://img.shields.io/badge/BOTS_ON_STAGE-BB1B1B?style=for-the-badge&logo=robotframework&logoColor=FFFFFF" alt="Bots on stage" />
+  <img src="https://img.shields.io/badge/AI_WITH_ATTITUDE-6E40C9?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="AI with attitude" />
+</p>
+
+### 🔥 Identidade visual
+
+| Elemento | Direção |
+|---|---|
+| **Preto palco** | 0D1117 para contraste e profundidade. |
+| **Vermelho amplificador** | F85149 para ação, alertas e destaque. |
+| **Roxo distorção** | 6E40C9 para IA, automação e experimentação. |
+| **Metal grafite** | 30363D para divisores e detalhes técnicos. |
+
+### 🎤 Setlist do perfil
+
+- **Abertura:** conheça a proposta, os bots e a identidade Yorkage.
+- **Riff principal:** aprenda fluxos, arquitetura, comandos e integrações.
+- **Solo de automação:** explore WhatsApp, botões, tickets e figurinhas.
+- **Bis:** consulte estatísticas reais, segurança, Actions e projetos públicos.
+
+### 🤘 Regras do palco
+
+Código público deve ser reproduzível, credenciais ficam fora do repositório, mensagens são enviadas somente com consentimento e toda automação precisa de limites, logs e uma forma clara de desligamento.
+
+<p align="center"><strong>⚡ Gisele Bote · Rock, bots e automação ⚡</strong></p>
